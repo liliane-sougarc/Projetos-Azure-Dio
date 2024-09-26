@@ -1,4 +1,4 @@
-Aqui está o texto reescrito em **Markdown**:
+
 
 ---
 
