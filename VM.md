@@ -74,7 +74,7 @@ Se o seu projeto requer escalabilidade, você pode habilitar a **autoescala**, q
 
 Após configurar todos os parâmetros da máquina virtual, clique em **Revisar e Criar**. O Azure fará uma verificação de suas configurações. Se tudo estiver correto, clique em **Criar** para iniciar o provisionamento.
 
-![Revisão Final - Criar Máquina Virtual](path/to/image2.png)
+![Revisão Final - Criar Máquina Virtual](https://github.com/liliane-sougarc/Projetos-Azure-Dio/blob/main/tela.img/maquinas%20virtuais%202.png)
 
 O processo de criação pode levar alguns minutos. Após a criação, você poderá acessar a VM usando o IP público ou por meio de uma conexão VPN.
 
