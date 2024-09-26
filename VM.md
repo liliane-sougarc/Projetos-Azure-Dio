@@ -13,7 +13,7 @@ Criar uma máquina virtual (VM) no Azure é um processo simples, mas que envolve
 1. Acesse o [Portal do Azure](https://portal.azure.com) com suas credenciais.
 2. No painel principal, procure por **Máquinas Virtuais** ou clique em **Criar um Recurso** e selecione **Máquina Virtual**.
 
-![Tela Inicial - Portal do Azure](path/to/image1.png)
+![Tela Inicial - Portal do Azure](https://github.com/liliane-sougarc/Projetos-Azure-Dio/blob/main/tela.img/maquinas%20virtuais%201.png)
 
 ---
 
