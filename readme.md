@@ -1,4 +1,4 @@
-Aqui está o texto reescrito em Markdown, utilizando algumas personalizações como cores e divisores. Para adicionar cards, cores e divisores em Markdown puro, as opções são limitadas. Para um efeito mais estilizado, você pode usar HTML misturado ao Markdown. Aqui está um exemplo usando uma combinação dos dois, com links para o curso AZ-900 da Microsoft:
+
 
 ---
 
